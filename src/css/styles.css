@@ -313,9 +313,9 @@ nav ul li a {
 }
 
 .projetos .btn-mostrar-projetos:hover{
-    background-color: #c4a646	;
+    background-color: #b5993e	;
     transition: 0.2s;	
-    transform: scale(1.1);
+    border: 2px solid #a28935;
 }
 
 .projetos .btn-mostrar-projetos.remover{
@@ -367,7 +367,7 @@ nav ul li a {
 .home .redes-sociais a i:hover{
   color: #c4a646		;
   border: 1px solid #c4a646		;
-  transform: scale(1.4);
+  transform: scale(1.1);
 }
 
 
@@ -387,11 +387,3 @@ footer p {
   margin-bottom: -25px;
   
 }
-
-
-
-
-
-
-
-
